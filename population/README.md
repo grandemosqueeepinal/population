@@ -42,4 +42,4 @@ Free to use share, rewrite, sell.
 
 [comment]: #
    [ISO_3166-2]: <https://fr.wikipedia.org/wiki/ISO_3166-2:MA>
-   [demo]: <https://raw.githubusercontent.com/grandemosqueeepinal/population/master/population/images/map.png>
+   [demo]: <https://grandemosqueeepinal.github.io/population/population/demo.html>
